@@ -4,10 +4,6 @@ Entenda os conceitos fundamentais para versionar código e colaborar em projetos
 
 ---
 
-<<<<<<< HEAD
-=======
- alteracao
->>>>>>> alteracao
 ### Fundamentos
 
 * **Git:** É a ferramenta que roda direto no seu computador. Ele funciona gravando (commits) de todo o histórico de alterações dos arquivos locais, sem depender de internet.
