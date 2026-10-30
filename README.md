@@ -4,6 +4,10 @@ Entenda os conceitos fundamentais para versionar código e colaborar em projetos
 
 ---
 
+<<<<<<< HEAD
+=======
+ alteracao
+>>>>>>> alteracao
 ### Fundamentos
 
 * **Git:** É a ferramenta que roda direto no seu computador. Ele funciona gravando (commits) de todo o histórico de alterações dos arquivos locais, sem depender de internet.
@@ -19,4 +23,8 @@ Entenda os conceitos fundamentais para versionar código e colaborar em projetos
 ---
 
 ### Gestão e Documentação no GitHub
+
+* **Issues:** Espaço dedicado para organizar o trabalho dentro do repositório. Funcionam como tickets para apontar bugs encontrados, registrar solicitações de novas funções ou distribuir tarefas para o time.
+* **Gists:** Ferramenta do GitHub para compartilhar trechos rápidos de código, scripts avulsos ou anotações curtas via link, dispensando a criação de um repositório completo.
+* **Wiki:** Sistema de páginas de documentação integrado ao repositório. Ideal para manuais de instalação aprofundados, diretrizes de arquitetura e guias de usuário que seriam extensos demais para ficar apenas no arquivo `README.md`.
 
